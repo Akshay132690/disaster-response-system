@@ -2,7 +2,8 @@
 # ReliefConnect: Disaster Relief & Resource Management System (DRMS)
 
 A centralized platform built on **Salesforce** to accelerate and coordinate aid distribution during natural disasters (like floods, earthquakes, and cyclones). **ReliefConnect** replaces manual resource and volunteer tracking with smart automation, ensuring victims receive essential help faster and making relief efforts more transparent and efficient.
-
+ 
+ Demo Video Link :  https://drive.google.com/file/d/1S1KCOdOQJQ0m4njRDrjOjmTpl-y64G0A/view?usp=sharing
 ---
 
 ## 💡 The Challenge We're Solving
